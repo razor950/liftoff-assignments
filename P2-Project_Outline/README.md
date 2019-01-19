@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+The main goal of the application is to help users find foodtrucks near their current location. It also helps foodtruck owners to gain new customers.
+Foodtrucks are growing quite rapidly but there is no central datatbase to locate them in a certain area.
+
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page.
+Search / Filter: Users will be shown all nearby foodtrucks. Users will be able to look up by name or filter by type of food and so forth.
+Rating: Users will be able to give the foodtruck a rating.
+
 ### Technologies
-Include Technologies here
+Java
+Spring
+Javascript
+React
+MongoDB
+
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Google Maps API
+React
+Spring Security (possibly)
+Lombok 
